@@ -17,7 +17,14 @@ public class FizzBuzzImpl implements FizzBuzz{
      */
     private String buzz;
 
+    /**
+     * Multiple de 3
+     */
     private final Integer fizzMultiple = 3;
+
+    /**
+     * Multiple de 5
+     */
     private final Integer buzzMultiple = 5;
 
     /**
